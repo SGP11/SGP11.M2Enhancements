@@ -1,6 +1,6 @@
-﻿<img width="1500" height="500" alt="0_required_modlist_1_art" src="https://github.com/user-attachments/assets/0b265289-2050-4d1d-86e0-3149b44e3996" />
-
-# 0Required
+<img width="1500" height="500" alt="thumbnail" src="https://github.com/user-attachments/assets/39a6fd52-cd0c-4c65-9a98-fbc44bbb10fb" />
+﻿
+# SGP11.M2 — Outer Wilds Enhancements Modlist
 
 A modlist containing essential mods for Outer Wilds.
 
