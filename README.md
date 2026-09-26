@@ -1,7 +1,6 @@
+<img width="1500" height="500" alt="thumbnail" src="https://github.com/user-attachments/assets/ff761481-1b10-40ae-970d-7ed371133a28" />
 ﻿# 0Required
-
-<img width="1500" height="500" alt="0_required_modlist_1_art" src="https://github.com/user-attachments/assets/0b265289-2050-4d1d-86e0-3149b44e3996" />
-
+ 
 A modlist containing essential mods for Outer Wilds.
 - [Astral Codex](https://outerwildsmods.com/mods/astralcodex/) by Walker  
 - [Tesseract’s Secret](https://outerwildsmods.com/mods/tesseractssecret/) by CantAffordaName  
