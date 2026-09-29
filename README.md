@@ -1,4 +1,4 @@
-﻿<img width="1500" height="500" alt="0_required_modlist_1_art" src="https://github.com/user-attachments/assets/0b265289-2050-4d1d-86e0-3149b44e3996" />
+<img width="1500" height="500" alt="thumbnail" src="https://github.com/user-attachments/assets/beb06f7f-d251-409f-ad25-ab7007923420" />
 
 # SGP11.M2Enhancements - Enhancement Modlist for Outer Wilds
 
